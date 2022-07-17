@@ -1,0 +1,37 @@
+[{
+  "_id": "user0",
+  "password": "user0",
+  "personalTitle": [
+    {
+      "title": "These award-winning photos show planet Earth in ways you've never seen it",
+      "prediction": "clickbait",
+      "timestamp": {
+        "$date": "2022-01-24T22:47:59.731Z"
+      }
+    },
+    {
+      "title": "US attorney conducting criminal investigation into Fox News ",
+      "prediction": "non_clickbait",
+      "timestamp": {
+        "$date": "2022-01-24T22:48:17.728Z"
+      }
+    },
+    {
+      "title": "Health Care, Immigration Ban, North Korea: Your Tuesday Briefing ",
+      "prediction": "clickbait",
+      "timestamp": {
+        "$date": "2022-01-26T13:45:55.308Z"
+      }
+    },
+    {
+      "title": "Donald Trump Agrees Not to Talk Publicly About Mexico Paying for Border Wall",
+      "prediction": "non_clickbait",
+      "timestamp": {
+        "$date": "2022-01-26T13:46:14.778Z"
+      }
+    }
+  ]
+},{
+  "_id": "simone",
+  "password": "simone"
+}]
